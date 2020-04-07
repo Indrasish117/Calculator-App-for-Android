@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calculator!</string>
+    <string name="action_settings">Settings</string>
+	<color name="green_button">#295F48</color>
+</resources>
